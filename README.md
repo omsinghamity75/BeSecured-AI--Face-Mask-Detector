@@ -1,4 +1,4 @@
-# Face Mask Detection with TensorFlow
+# BeSecured-AI Face Mask Detector
 
 This project trains a face-mask classifier in TensorFlow and uses OpenCV to detect faces in either a webcam stream or a single image.
 
